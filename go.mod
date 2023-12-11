@@ -161,3 +161,5 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1
 )
+
+replace github.com/dyatlov/go-oembed => github.com/DarkKirb/go-oembed v0.0.0-20231211094806-d054e8ef63ac
